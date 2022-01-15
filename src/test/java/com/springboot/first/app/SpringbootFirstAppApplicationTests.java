@@ -8,6 +8,7 @@ class SpringbootFirstAppApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("Testing completed...Go on Deploying!");
 	}
 
 }
