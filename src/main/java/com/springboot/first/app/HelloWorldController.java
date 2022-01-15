@@ -10,7 +10,7 @@ public class HelloWorldController {
 	//http://localhost:8090/hello-world
 	@GetMapping("/hello-world") 
 	public String helloworld() {
-		return "Hello Simplilearn...Welcome to Bookzy(online book shop)!";
+		return "Hello Simplilearn...Welcome to Bookzy...welcome again!";
 	}
 
 }
